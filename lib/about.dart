@@ -38,7 +38,7 @@ void showAppAboutDialog(BuildContext context) {
     context: context,
     applicationName: AppGlobal.appName,
     applicationVersion: AppGlobal.version,
-    applicationIcon: const FlutterLogo(),
+    applicationIcon: Icon(Icons.message),
     applicationLegalese: '© 2020 freecoder',
     children: <Widget>[
       Padding(
