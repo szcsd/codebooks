@@ -13,6 +13,6 @@
 4. 开源地址：https://github.com/szcsd/codebooks
 ## App界面预览
 ### 密文效果
-![image](https://github.com/szcsd/codebooks/tree/master/assets/img/preview1.jpg)
+![image](https://github.com/szcsd/codebooks/blob/master/assets/img/preview1.jpg?raw=true)
 ### App界面预览
-![image](https://github.com/szcsd/codebooks/tree/master/assets/img/preview2.jpg)
+![image](https://github.com/szcsd/codebooks/blob/master/assets/img/preview2.jpg?raw=true)
