@@ -11,3 +11,8 @@
 2. 为免除用户安全方面的担心，本app没有申请联网权限，纯本地使用的app。
 3. app采用先进的加密算法，只要不泄露密钥，基本无破解可能，详情可见开放源码。
 4. 开源地址：https://github.com/szcsd/codebooks
+## App界面预览
+### 密文效果
+![image](https://github.com/szcsd/codebooks/tree/master/assets/img/preview1.jpg)
+### App界面预览
+![image](https://github.com/szcsd/codebooks/tree/master/assets/img/preview2.jpg)
