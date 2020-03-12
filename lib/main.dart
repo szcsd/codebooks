@@ -409,8 +409,8 @@ class CodeBookHomePageState extends State<CodeBookHomePage>
     // TODO: implement didChangeAppLifecycleState
     if (state == AppLifecycleState.resumed &&
         _chatsettingKey.currentState.autoPasted) {
-      print("getClipboardContents");
-      getClipboardContents();
+      //print("getClipboardContents");
+      Future.delayed(Duration(microseconds: 500),()=>getClipboardContents());
     }
     super.didChangeAppLifecycleState(state);
   }
@@ -431,7 +431,15 @@ class CodeBookHomePageState extends State<CodeBookHomePage>
           title: Text(AppGlobal.appName),
           actions: <Widget>[
             IconButton(
+              icon: Icon(Icons.content_paste),
+              tooltip: '手工粘贴密文',
+              onPressed: () {
+                getClipboardContents();
+              },
+            ),
+            IconButton(
               icon: Icon(Icons.live_help),
+              tooltip: 'app帮助',
               onPressed: () {
                 Navigator.pushNamed(context, 'help');
               },
