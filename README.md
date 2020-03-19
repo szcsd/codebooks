@@ -12,6 +12,13 @@
 3. app采用的加密算法，只要不泄露密钥，基本无破解可能，详情可见开放源码。
 4. 本app采用dart语言编写，可以支持多个平台（IOS、Android、MACOS等），有资源的朋友可以遵守许可协议自行分发。
 4. 开源地址：https://github.com/szcsd/codebooks
+## 最新发布
+### v1.0.1
+1. 增加标题栏手工粘贴按钮
+2. 增加windows平台支持  
+
+[android程序下载](https://github.com/szcsd/codebooks/releases/download/v1.0.1/app.apk)  
+[Windows程序下载](https://github.com/szcsd/codebooks/releases/download/v1.0.1/codebooks.rar)
 ## App界面预览
 ### 密文效果
 ![image](https://github.com/szcsd/codebooks/blob/master/assets/img/preview1.jpg?raw=true)
