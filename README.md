@@ -14,8 +14,8 @@
 4. 开源地址：https://github.com/szcsd/codebooks
 ## 最新发布
 ### v1.0.1
-1. 增加标题栏手工粘贴按钮
-2. 增加windows平台支持  
+1. 增加标题栏手工粘贴按钮。
+2. 增加windows平台支持。  
 
 [android程序下载](https://github.com/szcsd/codebooks/releases/download/v1.0.1/app.apk)  
 [Windows程序下载](https://github.com/szcsd/codebooks/releases/download/v1.0.1/codebooks.rar)
